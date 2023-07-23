@@ -44,7 +44,7 @@ Source:
 - <https://gitlab.com/Syndamia/texty-office.vim>
 - <https://gitlab.com/Syndamia/texty-office>
 
-[Demo]
+https://github.com/fmi/vim-projects/assets/124255/26d082d6-7c68-4174-958e-60e76ae1e8ea
 
 Convert OOXML documents (.docx, .xlsx, .pptx) to text
 
