@@ -16,7 +16,7 @@ Be advised that the projects are not necessarily directly installable as plugins
 
 Source: <https://github.com/rayagrigorova/cpp_plugin.vim>
 
-[Demo]
+![demo](./demos/cpp_plugin/demo.gif)
 
 > This plugin includes functionality that I often needed in the Introduction to Programming and Object Oriented Programming courses.
 
