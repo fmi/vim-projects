@@ -34,7 +34,7 @@ Prettify and indent C++ code
 
 Source: <https://github.com/reo101/nix-update.nvim>
 
-[Demo]
+![demo](./demos/nix-update/demo.gif)
 
 Dynamically and asynchronously update attributes of fetch-like constructions in Nix
 
