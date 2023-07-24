@@ -22,7 +22,7 @@ Source: <https://github.com/rayagrigorova/cpp_plugin.vim>
 
 ### CPP Prettifier
 
-Source: [./src/cpp_prettifier]()
+Source: [./src/cpp_prettifier](./src/cpp_prettifier)
 
 ![demo](./demos/cpp_prettifier/demo.gif)
 
