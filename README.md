@@ -52,7 +52,7 @@ Convert OOXML documents (.docx, .xlsx, .pptx) to text
 
 Source: <https://github.com/PavelSarlov/scrollbar.vim>
 
-[Demo]
+https://github.com/fmi/vim-projects/assets/124255/968cf3f3-c4d9-4bbe-820a-5097cd6a1431
 
 A port of [nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) for Vim
 
