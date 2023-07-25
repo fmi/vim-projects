@@ -62,6 +62,6 @@ A port of [nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) for Vim
 
 Source: <https://github.com/killercho/ivan-space-ninja>
 
-[Demo]
+https://github.com/fmi/vim-projects/assets/124255/6ac9bd38-2c83-485a-9236-d5fbf86554d6
 
 > Game made with vim script for the Vim FMI course. The game is based on the mini-game "Journey of the prairie king" from Stardew Valley. Name comes from the scrapped name for Gordon Freeman.
