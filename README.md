@@ -56,6 +56,14 @@ https://github.com/fmi/vim-projects/assets/124255/968cf3f3-c4d9-4bbe-820a-5097cd
 
 A port of [nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) for Vim
 
+### Textfill
+
+Source: <https://github.com/RadoslavSV/vim-textfill>
+
+![demo](./demos/textfill/demo.gif)
+
+Generate fake names, countries, and other test data, based on the character under the cursor
+
 ## Games
 
 ### Ivan Space Ninja
