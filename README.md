@@ -64,6 +64,12 @@ Source: <https://github.com/RadoslavSV/vim-textfill>
 
 Generate fake names, countries, and other test data, based on the character under the cursor
 
+### Vimkube
+
+Source: <https://github.com/Veronica-SP/vimkube.vim>
+
+A Vim plugin for Kubernetes integration and development
+
 ## Games
 
 ### Ivan Space Ninja
