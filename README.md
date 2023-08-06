@@ -68,6 +68,8 @@ Generate fake names, countries, and other test data, based on the character unde
 
 Source: <https://github.com/Veronica-SP/vimkube.vim>
 
+![demo](./demos/vimkube/demo.gif)
+
 A Vim plugin for Kubernetes integration and development
 
 ## Games
