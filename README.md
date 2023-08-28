@@ -76,7 +76,7 @@ A Vim plugin for Kubernetes integration and development
 
 Source: <https://github.com/haydushki-fmi/exifVim>
 
-
+https://github.com/fmi/vim-projects/assets/124255/b8857549-97d1-4139-9105-5ae56f3f2414
 
 Edit exif tags in JPG and PNG image files.
 
