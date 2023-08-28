@@ -72,6 +72,14 @@ Source: <https://github.com/Veronica-SP/vimkube.vim>
 
 A Vim plugin for Kubernetes integration and development
 
+### ExifVim
+
+Source: <https://github.com/haydushki-fmi/exifVim>
+
+
+
+Edit exif tags in JPG and PNG image files.
+
 ## Games
 
 ### Ivan Space Ninja
