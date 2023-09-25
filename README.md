@@ -80,6 +80,13 @@ https://github.com/fmi/vim-projects/assets/124255/ea87309c-34c1-4498-aae5-86e54b
 
 Edit exif tags in JPG and PNG image files.
 
+### Clipboard manager
+
+Source: <https://github.com/Ilia-tod29/clipboardManager>
+
+> Isn't it annoying when you copy something to lose your previous copy?
+> This vim plugin is a clipboard manager that keeps up to 40 records.
+
 ## Games
 
 ### Ivan Space Ninja
